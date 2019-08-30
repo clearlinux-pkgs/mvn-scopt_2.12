@@ -4,7 +4,7 @@
 #
 Name     : mvn-scopt_2.12
 Version  : 3.7.0
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/com/github/scopt/scopt_2.12/3.7.0/scopt_2.12-3.7.0.jar
 Source0  : https://repo1.maven.org/maven2/com/github/scopt/scopt_2.12/3.7.0/scopt_2.12-3.7.0.jar
 Source1  : https://repo1.maven.org/maven2/com/github/scopt/scopt_2.12/3.7.0/scopt_2.12-3.7.0.pom
